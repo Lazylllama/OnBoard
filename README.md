@@ -1,4 +1,5 @@
 ![Hop Onboard banner logo](https://cloud-b3h81o0df-hack-club-bot.vercel.app/0onboard_github.png)
+# **<h2>Onboard has ended now :/ <br> But much more to come! Stay tuned :)<h2>**
 
 # OnBoard - Get a $100 grant and make a PCB!
 
@@ -11,6 +12,7 @@ It's easier than ever for high school students to get involved with programming;
 ---
 
 Every student will receive up to $100 to cover PCB manufacturing costs, and join a community of peers– some more beginner and some more experienced.
+
 ## Requirements
 
 Every design/submission needs to meet the following constraints to be approved:
@@ -62,7 +64,7 @@ It should look like this:
 
 **Note:** Your screenshot is **VITAL** since your project cannot be approved without it. You'll include the screenshot in your PR later.
 
-[^5]: Don't know which ones you can use? Check out [`VENDORS.md`](docs/VENDORS.md) for more info!
+[^5]: Don't know which ones you can use? Check out [`VENDORS.md`](./docs/VENDORS.md) for more info!
 [^6]: If outside the US you may be charged customs which aren't covered by the grant! Check beforehand.
 
 ### 4. Fork!
